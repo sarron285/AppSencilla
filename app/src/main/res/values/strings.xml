@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppSencilla</string>
+    <string name="nombre" />
+    <string name="aceptar" />
+</resources>
